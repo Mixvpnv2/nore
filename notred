@@ -635,3 +635,14 @@ print("PPSH41")
 	game:GetService("ReplicatedStorage").RangedWeapons.PPSH41.RecoilPattern["8"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.PPSH41.RecoilPattern["9"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.PPSH41.RecoilPattern["9"].y.Value = 0
+print("R700")
+	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["1"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["1"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["2"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["2"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["3"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["3"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["4"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["4"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["5"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["5"].y.Value = 0
