@@ -1,4 +1,4 @@
-print("ADAR15")
+print('ADAR15')
 	game:GetService("ReplicatedStorage").RangedWeapons.ADAR15.RecoilPattern["1"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.ADAR15.RecoilPattern["1"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.ADAR15.RecoilPattern["10"].x.Value = 0
@@ -201,7 +201,7 @@ print("ADAR15")
 	game:GetService("ReplicatedStorage").RangedWeapons.ADAR15.RecoilPattern["98"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.ADAR15.RecoilPattern["99"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.ADAR15.RecoilPattern["99"].y.Value = 0
-print("IZh12")
+print('IZh12')
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh12.RecoilPattern["1"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh12.RecoilPattern["1"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh12.RecoilPattern["2"].x.Value = 0
@@ -212,7 +212,7 @@ print("IZh12")
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh12.RecoilPattern["4"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh12.RecoilPattern["5"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh12.RecoilPattern["5"].y.Value = 0
-print("IZh81")
+print('IZh81')
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh81.RecoilPattern["1"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh81.RecoilPattern["1"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh81.RecoilPattern["2"].x.Value = 0
@@ -223,7 +223,7 @@ print("IZh81")
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh81.RecoilPattern["4"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh81.RecoilPattern["5"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.IZh81.RecoilPattern["5"].y.Value = 0
-print("MP443")
+print('MP443')
 	game:GetService("ReplicatedStorage").RangedWeapons.MP443.RecoilPatternDisabled["1"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.MP443.RecoilPatternDisabled["1"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.MP443.RecoilPatternDisabled["10"].x.Value = 0
@@ -260,7 +260,7 @@ print("MP443")
 	game:GetService("ReplicatedStorage").RangedWeapons.MP443.RecoilPatternDisabled["8"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.MP443.RecoilPatternDisabled["9"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.MP443.RecoilPatternDisabled["9"].y.Value = 0
-print("SVD")
+print('SVD')
 	game:GetService("ReplicatedStorage").RangedWeapons.SVD.RecoilPattern["1"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.SVD.RecoilPattern["1"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.SVD.RecoilPattern["10"].x.Value = 0
@@ -281,7 +281,7 @@ print("SVD")
 	game:GetService("ReplicatedStorage").RangedWeapons.SVD.RecoilPattern["8"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.SVD.RecoilPattern["9"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.SVD.RecoilPattern["9"].y.Value = 0
-print("Mosin")
+print('Mosin')
 	game:GetService("ReplicatedStorage").RangedWeapons.Mosin.RecoilPattern["1"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.Mosin.RecoilPattern["1"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.Mosin.RecoilPattern["2"].x.Value = 0
@@ -292,7 +292,7 @@ print("Mosin")
 	game:GetService("ReplicatedStorage").RangedWeapons.Mosin.RecoilPattern["4"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.Mosin.RecoilPattern["5"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.Mosin.RecoilPattern["5"].y.Value = 0
-print("M4")
+print('M4')
 	game:GetService("ReplicatedStorage").RangedWeapons.M4.RecoilPattern["1"].x .Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.M4.RecoilPattern["1"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.M4.RecoilPattern["10"].x.Value = 0
@@ -493,7 +493,7 @@ print("M4")
 	game:GetService("ReplicatedStorage").RangedWeapons.M4.RecoilPattern["98"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.M4.RecoilPattern["99"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.M4.RecoilPattern["99"].y.Value = 0
-print("PPSH41")
+print('PPSH41')
 	game:GetService("ReplicatedStorage").RangedWeapons.PPSH41.RecoilPattern["1"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.PPSH41.RecoilPattern["1"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.PPSH41.RecoilPattern["10"].x.Value = 0
@@ -635,7 +635,7 @@ print("PPSH41")
 	game:GetService("ReplicatedStorage").RangedWeapons.PPSH41.RecoilPattern["8"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.PPSH41.RecoilPattern["9"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.PPSH41.RecoilPattern["9"].y.Value = 0
-print("R700")
+print('R700')
 	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["1"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["1"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["2"].x.Value = 0
@@ -646,3 +646,212 @@ print("R700")
 	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["4"].y.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["5"].x.Value = 0
 	game:GetService("ReplicatedStorage").RangedWeapons.R700.RecoilPattern["5"].y.Value = 0
+print('TFZ98S')
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ98S.RecoilPattern["1"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ98S.RecoilPattern["1"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ98S.RecoilPattern["2"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ98S.RecoilPattern["2"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ98S.RecoilPattern["3"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ98S.RecoilPattern["3"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ98S.RecoilPattern["4"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ98S.RecoilPattern["4"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ98S.RecoilPattern["5"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ98S.RecoilPattern["5"].y.Value = 0
+print('TFZ0')
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["1"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["1"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["10"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["10"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["11"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["11"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["12"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["12"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["13"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["13"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["14"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["14"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["15"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["15"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["16"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["16"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["17"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["17"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["18"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["18"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["19"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["19"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["2"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["2"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["20"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["20"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["21"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["21"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["22"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["22"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["23"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["23"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["24"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["24"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["25"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["25"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["26"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["26"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["27"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["27"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["28"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["28"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["29"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["29"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["3"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["3"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["30"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["30"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["31"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["31"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["32"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["32"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["33"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["33"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["34"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["34"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["35"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["35"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["36"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["36"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["37"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["37"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["38"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["38"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["39"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["39"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["4"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["4"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["40"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["40"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["41"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["41"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["42"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["42"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["43"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["43"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["44"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["44"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["45"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["45"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["46"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["46"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["47"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["47"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["48"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["48"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["49"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["49"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["5"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["5"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["50"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["50"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["51"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["51"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["52"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["52"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["53"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["53"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["54"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["54"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["55"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["55"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["56"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["56"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["57"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["57"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["58"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["58"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["59"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["59"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["6"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["6"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["60"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["60"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["61"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["61"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["62"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["62"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["63"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["63"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["64"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["64"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["65"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["65"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["66"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["66"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["67"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["67"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["68"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["68"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["69"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["69"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["7"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["7"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["70"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["70"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["71"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["71"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["72"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["72"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["73"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["73"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["74"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["74"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["75"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["75"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["76"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["76"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["77"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["77"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["78"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["78"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["79"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["79"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["8"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["8"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["80"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["80"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["9"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.TFZ0.RecoilPattern["9"].y.Value = 0
+print('MK23')
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["1"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["1"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["10"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["10"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["11"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["11"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["12"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["12"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["13"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["13"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["14"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["14"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["15"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["15"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["16"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["16"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["17"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["17"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["18"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["18"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["2"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["2"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["3"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["3"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["4"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["4"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["5"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["5"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["6"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["6"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["7"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["7"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["8"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["8"].y.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["9"].x.Value = 0
+	game:GetService("ReplicatedStorage").RangedWeapons.MK23.RecoilPatternDisabled["9"].y.Value = 0
